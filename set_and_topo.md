@@ -21,3 +21,4 @@
 
 ## 1.2 熱伝導方程式とフーリエ級数
 
+<img src="https://latex.codecogs.com/gif.latex?">
